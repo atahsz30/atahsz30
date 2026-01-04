@@ -20,6 +20,6 @@
 
 ---
 
-###📫 How to reach me: ata.hsz12@gmail.com
+### 📫 How to reach me: ata.hsz12@gmail.com
 
 
