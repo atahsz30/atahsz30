@@ -2,7 +2,6 @@
 
 🎓 Computer Engineering Student  
 🧠 Interested in AI, Optimization, and Computer Vision  
-💻 C++ | Python | OpenCV | Machine Learning  
 
 ---
 
